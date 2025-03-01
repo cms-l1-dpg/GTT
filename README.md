@@ -8,6 +8,9 @@ This script will run over ntuples created from L1Trigger/L1TTrackMatch/test/L1Tr
 
 *--o* = the output plot file
 
+## GTTValidation.py
+This script runs on the plot file created by anaL1TrackNtuple.py and creates the various GTT Validation plots 
+
 ## plotTracks.py
 This script runs on the plot file created by anaL1TrackNtuple.py and saves them nicely (older file)
 
